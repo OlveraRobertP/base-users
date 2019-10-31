@@ -110,7 +110,7 @@
 year = reportContext.getParameterValue("year");
 month = reportContext.getParameterValue("month");
 
-importPackage(Packages.com.wiare.psc.reports)
+importPackage(Packages.com.robolverap.reports)
 cobranza = new CobranzaRS();
 
 //Load the List
@@ -185,7 +185,7 @@ return false;
 year = reportContext.getParameterValue("year");
 month = reportContext.getParameterValue("month");
 
-importPackage(Packages.com.wiare.psc.reports)
+importPackage(Packages.com.robolverap.reports)
 cobranza = new CobranzaRS();
 
 //Load the List
@@ -209,7 +209,7 @@ return false;
             <property name="dataSource">srcInfo</property>
             <method name="open"><![CDATA[// create instance of
 // the GetStockHistory class
-importPackage(Packages.com.wiare.psc.reports)
+importPackage(Packages.com.robolverap.reports)
 balanceService = new CobranzaRS();
 
 //Load the List

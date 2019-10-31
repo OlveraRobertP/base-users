@@ -25,7 +25,7 @@
 		<property name="driverClassName"
 			value="com.mysql.jdbc.Driver" />
 		<property name="url"
-			value="jdbc:mysql://localhost:3306/psc?autoReconnect=true&amp;serverTimezone=UTC&amp;useSSL=False&amp;allowPublicKeyRetrieval=true" />
+			value="jdbc:mysql://localhost:3306/base-sys?autoReconnect=true&amp;serverTimezone=UTC&amp;useSSL=False&amp;allowPublicKeyRetrieval=true" />
 		<property name="username" value="root" />
 		<property name="password" value="jr230691" />
 	</bean>
@@ -37,7 +37,7 @@
 			value="com.robolverap.model.app" />
 		<property name="hibernateProperties">
 			<props>
-				<prop key="hibernate.dialect"> org.hibernate.dialect.MySQLDialect</prop>
+				<prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect</prop>
 				<prop key="hibernate.show_sql">false</prop>
 			</props>
 		</property>

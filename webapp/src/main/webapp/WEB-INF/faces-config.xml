@@ -14,19 +14,19 @@
 
 		<!-- RESOURCE MENSAJES -->
 		<resource-bundle>
-			<base-name>com.wiare.psc.resources.internacional.messages</base-name>
+			<base-name>com.robolverap.resources.internacional.messages</base-name>
 			<var>msg</var>
 		</resource-bundle>
 
 		<!-- RESOURCE BOTONES -->
 		<resource-bundle>
-			<base-name>com.wiare.psc.resources.internacional.buttons</base-name>
+			<base-name>com.robolverap.resources.internacional.buttons</base-name>
 			<var>btn</var>
 		</resource-bundle>
 
 		<!-- RESOURCE LABELS -->
 		<resource-bundle>
-			<base-name>com.wiare.psc.resources.internacional.labels</base-name>
+			<base-name>com.robolverap.resources.internacional.labels</base-name>
 			<var>lbl</var>
 		</resource-bundle>
 

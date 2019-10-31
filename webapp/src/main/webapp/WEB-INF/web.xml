@@ -190,7 +190,7 @@
 	<!-- Filename generator class/factory to use -->
 	<context-param>
 		<param-name>BIRT_FILENAME_GENERATOR_CLASS</param-name>
-		<param-value>com.wiare.psc.reports.FilenameGenerator</param-value>
+		<param-value>com.robolverap.reports.FilenameGenerator</param-value>
 	</context-param>
 	
 	<welcome-file-list>
